@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://www.facebook.com/ConanDoyless">Chao Hồ Nguyễn Văn Nhật</a>
-                    <a href="https://www.facebook.com/ConanDoyless">Một ngày thật mệt mỏi cho anh rồi!!!</a>
+                    <a href="https://www.facebook.com/ConanDoyless">Cố lên</a>
                 </div>
             </div>
         </div>
