@@ -88,7 +88,7 @@
                     <a href="https://www.facebook.com/ConanDoyless">Chao Hồ Nguyễn Văn Nhật</a>
                     <br>
                     <a href="https://www.facebook.com/ConanDoyless">Cố lên</a>
-                    <a href="https://www.facebook.com/ConanDoyless">Mai đi làm</a>
+                    <a href="https://www.facebook.com/ConanDoyless">Làm được thôi</a>
                     <a href="https://www.facebook.com/ConanDoyless">Jenkins</a>
                 </div>
             </div>
