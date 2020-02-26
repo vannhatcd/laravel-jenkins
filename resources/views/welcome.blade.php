@@ -81,13 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel 7.0
                 </div>
 
                 <div class="links">
                     <a href="https://www.facebook.com/ConanDoyless">Chào!!! Hồ Nguyễn Văn Nhật</a>
                     <br>
-                    <a href="https://www.facebook.com/ConanDoyless">Cố lên !!!! xong rồi !!!</a>
+                    <a href="https://www.facebook.com/ConanDoyless">Cố lên</a>
                     <a href="https://www.facebook.com/ConanDoyless">Jenkins</a>
                 </div>
             </div>
