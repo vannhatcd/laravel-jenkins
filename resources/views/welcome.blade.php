@@ -85,10 +85,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://www.facebook.com/ConanDoyless">Chào!!! Hồ Nguyễn Văn Nhật</a>
+                    <a href="https://www.facebook.com/ConanDoyless">Chào!!! Jenkins</a>
                     <br>
-                    <a href="https://www.facebook.com/ConanDoyless">Cố lên</a>
-                    <a href="https://www.facebook.com/ConanDoyless">Jenkins</a>
+                    <a href="https://www.facebook.com/ConanDoyless">Demo</a>
                 </div>
             </div>
         </div>
